@@ -11,7 +11,7 @@ setup
 (
     name=SRC_REPO,
     version="0.0.1",
-    author=AUTHOR_NAME,
+    author='Gunjan Sarma',
     author_email= 'gunjansarma2001@gmail.com'
     description="A small package for Movie Recommender System",
     long_description=long_description,
